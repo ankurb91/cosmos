@@ -61,8 +61,8 @@
     </nav>
     <!-- END nav -->
 
-    <!-- <section class="pb_cover_v1 text-left cover-bg-black cover-bg-opacity-4" style="background-image: url(assets/images/1900x1200_img_7.jpg)" id="section-home">-->
-    <section class="pb_cover_v1 text-left cover-bg-black cover-bg-opacity-4" style="background-image:url('images/1900x1200_img_7.jpg')" id="section-home">
+    <section class="pb_cover_v1 text-left cover-bg-black cover-bg-opacity-4" style="background-image: url('images/1900x1200_img_7.jpg')" id="section-home">
+    <!-- <section class="pb_cover_v1 text-left cover-bg-black cover-bg-opacity-4" style="background-image:url('images/1900x1200_img_7.jpg')" id="section-home">-->
     
       <div class="container">
         <div class="row align-items-center justify-content-end">
