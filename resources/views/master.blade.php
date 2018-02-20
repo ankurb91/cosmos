@@ -61,7 +61,9 @@
     </nav>
     <!-- END nav -->
 
-    <section class="pb_cover_v1 text-left cover-bg-black cover-bg-opacity-4" style="background-image: url(assets/images/1900x1200_img_7.jpg)" id="section-home">
+    <!-- <section class="pb_cover_v1 text-left cover-bg-black cover-bg-opacity-4" style="background-image: url(assets/images/1900x1200_img_7.jpg)" id="section-home">-->
+    <section class="pb_cover_v1 text-left cover-bg-black cover-bg-opacity-4" style="background-image:url('images/1900x1200_img_7.jpg')" id="section-home">
+    
       <div class="container">
         <div class="row align-items-center justify-content-end">
           <div class="col-md-6  order-md-1">
@@ -298,7 +300,7 @@
 
               <div>
                 <div class="d-lg-flex d-md-block slide_content">
-                  <div class="pb_content-media" style="background-image: url(assets/images/1900x1200_img_2.jpg);"></div>
+                  <div class="pb_content-media" style="background-image:  url(assets/images/1900x1200_img_2.jpg);"></div>
                   <div class="slide_content-text text-center">
                     <div class="pb_icon_v1"><i class="flaticon text-primary flaticon-wallet"></i></div>
                     <h3 class="font-weight-normal mt-0 mb-4">Financial Law</h3>
