@@ -5,23 +5,38 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 		<title>Law &mdash; Free Multi-Purpose One Page Bootstrap 4 Theme by uicookies.com</title>
+		<base href="{{ URL::asset('/') }}" target="_blank">
 		<meta name="description" content="Free Bootstrap 4 Theme by uicookies.com">
 		<meta name="keywords" content="free website templates, free bootstrap themes, free template, free bootstrap, free website template">
     
     <link href="https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,600|Montserrat:200,300,400" rel="stylesheet">
 
-		<link rel="stylesheet" href="assets/css/bootstrap/bootstrap.css">
-    <link rel="stylesheet" href="assets/fonts/ionicons/css/ionicons.min.css">
-    <link rel="stylesheet" href="assets/fonts/law-icons/font/flaticon.css">
+<!-- 		<link rel="stylesheet" href="assets/css/bootstrap/bootstrap.css"> -->
+<!--     <link rel="stylesheet" href="assets/fonts/ionicons/css/ionicons.min.css"> -->
+<!--     <link rel="stylesheet" href="assets/fonts/law-icons/font/flaticon.css"> -->
 
-    <link rel="stylesheet" href="assets/fonts/fontawesome/css/font-awesome.min.css">
+<!--     <link rel="stylesheet" href="assets/fonts/fontawesome/css/font-awesome.min.css"> -->
     
     
-    <link rel="stylesheet" href="assets/css/slick.css">
-    <link rel="stylesheet" href="assets/css/slick-theme.css">
+<!--     <link rel="stylesheet" href="assets/css/slick.css"> -->
+<!--     <link rel="stylesheet" href="assets/css/slick-theme.css"> -->
 
-    <link rel="stylesheet" href="assets/css/helpers.css">
-    <link rel="stylesheet" href="assets/css/style.css">
+<!--     <link rel="stylesheet" href="assets/css/helpers.css"> -->
+<!--     <link rel="stylesheet" href="assets/css/style.css"> -->
+
+<link rel="stylesheet" href="{{ url('css/bootstrap/bootstrap.css'}}">
+    <link rel="stylesheet" href="{{ url('fonts/ionicons/css/ionicons.min.css'}}">
+    <link rel="stylesheet" href="{{ url('fonts/law-icons/font/flaticon.css'}}">
+
+    <link rel="stylesheet" href="{{ url('fonts/fontawesome/css/font-awesome.min.css'}}">
+    
+    
+    <link rel="stylesheet" href="{{ url('css/slick.css'}}">
+    <link rel="stylesheet" href="{{ url('css/slick-theme.css'}}">
+
+    <link rel="stylesheet" href="{{ url('css/helpers.css'}}">
+    <link rel="stylesheet" href="{{ url('css/style.css'}}">
+
 	</head>
 	<body data-spy="scroll" data-target="#pb-navbar" data-offset="200">
     
