@@ -5,7 +5,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 		<title>Law &mdash; Free Multi-Purpose One Page Bootstrap 4 Theme by uicookies.com</title>
-		<base href="{{ URL::asset('/resources/assets/') }}" target="_blank">
+<!-- 		<base href="{{ URL::asset('/resources/assets/') }}" target="_blank"> -->
 		<meta name="description" content="Free Bootstrap 4 Theme by uicookies.com">
 		<meta name="keywords" content="free website templates, free bootstrap themes, free template, free bootstrap, free website template">
     
